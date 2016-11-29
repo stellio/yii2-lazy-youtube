@@ -1,6 +1,6 @@
 {
     "name": "ilis/yii2-lazy-youtube",
-    "description": "Accelerates the pages loadings with youtube videos using lazy load method",
+    "description": "YouTube lazy load. Accelerate page loading with youtube video.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","youtube","lazy","loader"],
     "license": "BSD-3-Clause",
