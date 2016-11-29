@@ -1,6 +1,6 @@
 Yii2 Lazy YouTube Loader
 ===================
-Accelerates the loading of pages with youtube videos using lazy load.
+YouTube lazy load. Accelerate page loading with youtube video.
 
 Installation
 ------------
